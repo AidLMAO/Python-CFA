@@ -44,6 +44,9 @@ def main():
         if guess == x:
             print("Your total point is 1.")
             print()
+        else:
+            print("your total point is 0.")
+            print()
             
 
 main()
